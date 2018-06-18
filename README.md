@@ -1,2 +1,2 @@
 # emotiv
-Repository for experimental research software for the Emotiv EEG headset
+Repository of experimental research software for the Emotiv EEG headset
